@@ -1,4 +1,3 @@
 #!/bin/bash
-echo 'git repository name?'
-read name
-git clone https://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@github.com/Diego-Bonora/$name.git
+read -p 'git repository name? ' name
+git clone https://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@github.com/Diego-Bonora/$name.git
