@@ -1,4 +1,4 @@
 #!/bin/bash
 echo 'git repository name?'
 read name
-git clone https://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@github.com/Diego-Bonora/$name.git
+git clone https://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@github.com/Diego-Bonora/$name.git
