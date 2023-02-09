@@ -1,3 +1,0 @@
-#!/bin/bash
-read -p 'git repository name? ' name
-git clone https://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@github.com/Diego-Bonora/$name.git
